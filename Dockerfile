@@ -26,4 +26,4 @@ ENV APP_PORT=80
 ENV NODE_ENV=production
 ENV TZ=America/Sao_Paulo
 
-CMD [ "node", "/app/main" ]
+CMD [ "node", "/app/src/main" ]
